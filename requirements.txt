@@ -1,0 +1,11 @@
+flask
+discord
+chat-exporter
+typing
+requests
+asyncio
+gspread
+pandas
+chat_exporter
+mysql.connector
+
